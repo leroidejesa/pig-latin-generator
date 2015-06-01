@@ -7,9 +7,9 @@ a web development bootcamp in Portland, Oregon, USA.*
 #### Here's an example:
 
 ```
->pigLatin("you squeal when you eat quesadillas");
+> pigLatin("you squeal when you eat quesadillas");
 ```
 returns
 ```
->"ou-yay eal-squay en-whay ou-yay eat-ay esadillas-quay"
+> "ou-yay eal-squay en-whay ou-yay eat-ay esadillas-quay"
 ```
