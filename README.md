@@ -9,7 +9,7 @@ a web development bootcamp in Portland, Oregon, USA.*
 ```
 you squeal when you eat quesadillas
 ```
-becomes:
+becomes
 ```
 ou-yay eal-squay en-whay ou-yay eat-ay esadillas-quay
 ```
